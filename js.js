@@ -19,4 +19,4 @@
       setColor = localStorage.getItem("Color");
       document.body.style.background = localStorage.getItem("Color");
   }
-  setInterval(bgcolor, 50);
+  setInterval(bgcolor, 5);
